@@ -1,7 +1,7 @@
 # QLauncher
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1315434043369852969/1393732702817091604/d3693d2708567831.png?ex=68743e3a&is=6872ecba&hm=e5df25399baac61a3f0db594e4867fea474726a2c28539cf38afa653f340d3f3&=&format=webp&quality=lossless&width=960&height=960" alt="QLauncher Logo" width="150"/>
+  <img src="https://media.discordapp.net/attachments/1315434043369852969/1393732954106232984/rounded-in-photoretrica.png?ex=68743e76&is=6872ecf6&hm=2ccdd0fe2c5a9d46cabf4be68c8c8f1d19a5a65493b742f5caf9c93a5429f1bf&=&format=webp&quality=lossless&width=960&height=960" alt="QLauncher Logo" width="150"/>
 </p>
 
 <p align="center">
