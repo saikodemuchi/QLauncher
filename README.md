@@ -23,7 +23,8 @@
 QLauncher был создан из-за усталости от громоздких, медленных и перегруженных рекламой лаунчеров. Наша цель — предоставить игрокам максимально чистый и приятный опыт, позволяя им попасть в мир Minecraft как можно быстрее.
 
 <p align="center">
-  <img src="ССЫЛКА_НА_СКРИНШОТ_ЛАУНЧЕРА.png" alt="Скриншот QLauncher" width="600"/>
+  <img src="<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/ebe6d8b1-8ef1-493f-b7fa-f3a6cf4d2b51" />
+" alt="Скриншот QLauncher" width="600"/>
 </p>
 
 ### ✨ Ключевые особенности
