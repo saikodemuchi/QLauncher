@@ -1,7 +1,7 @@
 # QLauncher
 
 <p align="center">
-  <img src="ССЫЛКА_НА_ВАШ_ЛОГОТИП.png" alt="QLauncher Logo" width="150"/>
+  <img src="https://media.discordapp.net/attachments/1315434043369852969/1393732702817091604/d3693d2708567831.png?ex=68743e3a&is=6872ecba&hm=e5df25399baac61a3f0db594e4867fea474726a2c28539cf38afa653f340d3f3&=&format=webp&quality=lossless&width=960&height=960" alt="QLauncher Logo" width="150"/>
 </p>
 
 <p align="center">
